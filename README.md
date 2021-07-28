@@ -46,7 +46,6 @@ admin_pwd = 123456
 type = http
 local_ip = 127.0.0.1
 local_port = 80
-remote_port = 80
 custom_domains = your-domain.com # 自定义域名
 
 # tcp 示例
