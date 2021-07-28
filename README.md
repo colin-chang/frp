@@ -58,3 +58,4 @@ remote_port = 3306
 docker pull colinchang/frpc
 docker run -d --name frpc --network host -v $PWD/frpc.ini:/frpc/frpc.ini colinchang/frpc
 ```
+**docker host网络模式不支持 mac OS**
